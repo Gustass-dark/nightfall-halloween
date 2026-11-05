@@ -21,7 +21,7 @@ O campo de pesquisa é um elemento visual e ainda não realiza buscas.
 
 Baixe o ZIP, extraia e abra `index.html` em um navegador moderno. Não é necessário instalar dependências.
 
-Após a publicação no repositório proposto, será possível usar estes comandos.
+Para clonar o repositório, use estes comandos:
 
 ```bash
 git clone https://github.com/Gustass-dark/nightfall-halloween.git
@@ -56,13 +56,7 @@ Os caminhos locais das imagens, CSS e scripts e os destinos das âncoras e compo
 
 Todo o código autoral do site foi desenvolvido por Gustavo Mesquita, incluindo a estrutura HTML e a integração dos componentes. Bootstrap e Font Awesome são dependências de terceiros, com autoria e licenças próprias.
 
-O código autoral está sob licença MIT, disponível em LICENSE. Bootstrap e Font Awesome mantêm seus avisos de licença originais. O arquivo `fontawesome/LICENSE.txt` acompanha a distribuição. Segundo Gustavo Mesquita, as imagens dos sites foram geradas com inteligência artificial, incluindo o Adobe Firefly. A ferramenta específica usada para cada arquivo não foi individualizada. As imagens e não estão incluídas na licença MIT do código.
-
-## Organização do GitHub
-
-Nome proposto `nightfall-halloween`. Topics sugeridos `html`, `css`, `bootstrap`, `javascript`, `halloween`, `projeto-academico`.
-
-A preparação acrescentou index.html, README.md e .gitignore ao material recebido.
+O código autoral está sob licença MIT, disponível em LICENSE. Bootstrap e Font Awesome mantêm seus avisos de licença originais. O arquivo `fontawesome/LICENSE.txt` acompanha a distribuição. Segundo Gustavo Mesquita, as imagens dos sites foram geradas com inteligência artificial, incluindo o Adobe Firefly. A ferramenta específica usada para cada arquivo não foi individualizada. As imagens não estão incluídas na licença MIT do código.
 
 ## Verificação em navegador
 
